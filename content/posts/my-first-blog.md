@@ -1,10 +1,10 @@
 +++ 
 draft = false
 date = 2022-08-07T22:17:51+10:00
-title = ""
-description = ""
-slug = ""
-authors = []
+title = "Place-holder-blog"
+description = "this is my placeholder whilst I build the full content"
+slug = "placeholder"
+authors = ["Benjamin Western"]
 tags = []
 categories = []
 externalLink = ""
