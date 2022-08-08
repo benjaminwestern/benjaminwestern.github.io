@@ -6,6 +6,8 @@ aliases = ["about-me", "about-ben", "about"]
 author = "Benjamin Western"
 +++
 
+{{< figure src="/images/avatar.jpg" alt="It is me... Ben">}}
+
 A Passion for the IT industry, in my opinion, isn’t something you pick up. You're born with it. In my younger years, I was the king of pulling things apart and trying to understand what and how they worked. I didn’t know it back then, but I was performing a root cause analysis.
 
 This drive for understanding has served me well in my later years as I am faced with bigger and bigger problems. The simple root cause analysis strategy has always guided me through. Not simply looking at the issue but understanding how and why it came to be.
