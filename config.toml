@@ -1,4 +1,4 @@
-baseURL = "https://thebenjaminwestern.com"
+baseURL = "https://benjaminwestern.dev"
 #baseURL = "https://benjaminwestern.github.io"
 title = "Benjamin Western"
 theme = "hugo-coder"
