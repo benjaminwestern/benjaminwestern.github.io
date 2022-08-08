@@ -89,7 +89,7 @@ languageName = ":aud:"
 [languages.en.params]
 description = "Benjamin Western's personal website and blog"
 keywords = "blog,developer,personal,software,python,data,google,gde,ml,ai"
-info = ["ML Engineer, Data Engineer and Developer", "In pursuit of GDE"]
+info = ["ML Engineer, Data Engineer and Developer", "Pursuing the title: Google Developer Expert"]
 
 [[languages.en.menu.main]]
 name = "About"
