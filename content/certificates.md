@@ -30,8 +30,8 @@ author = "Benjamin Western"
 
 #### Google Certificates: 
 - [Associate Cloud Engineer](/files/Google/Associate-Cloud-Engineer.pdf)
-- [Professional Data Engineer](/files/Google/Professional-Data-Engineer.pdf)
 - [Professional Cloud Architect](/files/Google/Professional-Cloud-Architect.pdf)
+- [Professional Data Engineer](/files/Google/Professional-Data-Engineer.pdf)
 - Professional ML Engineer (in-progress)
 
 #### Terraform Certificates:
