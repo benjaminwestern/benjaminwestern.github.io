@@ -92,13 +92,22 @@ keywords = "blog,developer,personal,software,python,data,google,gde,ml,ai"
 info = ["ML Engineer, Data Engineer and Developer", "Pursuing the title: Google Developer Expert"]
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Blog"
 weight = 1
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+name = "Badges"
+weight = 3
+url = "badges/"
 
+[[languages.en.menu.main]]
+name = "Certificates"
+weight = 4
+url = "certificates/"
 

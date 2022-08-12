@@ -6,7 +6,7 @@ aliases = ["about-me", "about-ben", "about"]
 author = "Benjamin Western"
 +++
 
-{{< figure src="/images/avatar.jpg" alt="It is me... Ben">}}
+{{< figure src="/images/avatar.jpg" alt="It is me... Ben" width="500" height="500">}}
 
 A Passion for the IT industry, in my opinion, isn’t something you pick up. You're born with it. In my younger years, I was the king of pulling things apart and trying to understand what and how they worked. I didn’t know it back then, but I was performing a root cause analysis.
 
@@ -47,25 +47,6 @@ Database Technologies:
 - Non-relational and distributed data
 - In-Memory Systems
 
-Datadog Certificates:
-- 2021 Datadog Technical Specialist
+[Link to my certificates](/certificates)
 
-3CX Certificates:
-- Basic Certified Engineer v16
-- Intermediate Certified Engineer v16
-- Advanced Certified Engineer v16
-
-Microsoft Certificates: 
-- Microsoft 365 Fundamentals
-- Azure Fundamentals
-- Azure Associate Administrator
-- PowerPlatform Fundamentals
-
-Google Certificates: 
-- Associate Cloud Engineer
-- Professional Data Engineer
-- Professional Cloud Architect
-- Professional ML Engineer (in-progress)
-
-Terraform Certificates:
-- Terraform Associate (in-progress)
+[Link to my badges](/badges)
