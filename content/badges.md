@@ -5,7 +5,7 @@ date = "2022-08-07"
 aliases = ["badges", "badges-ben", "badges-images"]
 author = "Benjamin Western"
 +++
-{{< myshortcode >}}
+{{< center_div >}}
 <h3>Google</h3>
 <h4>Associate Cloud Engineer</h4>
 {{< figure src="/images/badges/Google-Certified-Associate-Cloud-Engineer-Badge.png" alt="Google Cloud - Associate Cloud Engineer Badge" width="300" height="300">}}
@@ -25,4 +25,4 @@ author = "Benjamin Western"
 {{< figure src="/images/badges/Fundamentals-Power-Platform.png" alt="Power Platform Fundamentals" width="300" height="300">}}
 <h4>Azure Administrator Associate</h4>
 {{< figure src="/images/badges/azure-administrator-associate.png" alt="Azure Administrator Associate" width="300" height="300">}}
-{{< /myshortcode >}}
+{{< /center_div >}}
