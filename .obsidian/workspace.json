@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "0c7d984a25411f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b4141b8238b53be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2584fa9c2731742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/certificates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6e811fba859f0e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "76b05d8479c2a845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63a522b61f9c7733",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f802eb938c681dbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a44f90a67a05c3bf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5af75644d0ef9fb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "97bf753fbe8f1287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d5efe84d90db71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/certificates.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89c48726ff685b1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/certificates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "392554582241ec7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e855dcc357bcff25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/certificates.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e2584fa9c2731742",
+  "lastOpenFiles": [
+    "content/badges.md",
+    "content/about.md",
+    "content/posts/my-first-blog.md"
+  ]
+}
