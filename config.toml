@@ -27,6 +27,18 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
+# Envinroment
+env = "production"
+# Tag Manager
+googleTagManager.id = "GTM-NXV29XL"
+# Google Site Verification
+# googleSiteVerification = "google-site-verification=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+# Google Search Console
+# googleSearchConsole = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+# Google Adsense
+# googleAdsense = "ca-pub-xxxxxxxxxxxxxxxx"
+# Google Adsense Slot
+# googleAdsenseSlot = "xxxxxxxxxx"
 # Custom CSS
 customCSS = []
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
@@ -52,11 +64,12 @@ scriptsrc = [
   "'self'",
   "'unsafe-inline'",
   "https://www.google-analytics.com",
+  "https://www.googletagmanager.com",
   "https://cdn.jsdelivr.net/"
 ]
 prefetchsrc = ["'self'"]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
-connectsrc = ["'self'", "https://www.google-analytics.com"]
+connectsrc = ["'self'", "https://www.google-analytics.com", "https://www.googletagmanager.com"]
 
 [taxonomies]
 category = "categories"
